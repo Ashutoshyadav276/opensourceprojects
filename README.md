@@ -1,4 +1,5 @@
 # opensourceprojects
+// First of all install WireShark on Linux or Windows, but i am using WireShark on Linux OS.
 Commands To Capture Packets Using Wire Shark 
 
 //To find network with ip address
